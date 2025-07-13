@@ -9,7 +9,7 @@
 
 Ответ:
 
-`![task-1](./img/task-1.png)`
+![task-1](./img/task-1.png)
 
 
 ---
