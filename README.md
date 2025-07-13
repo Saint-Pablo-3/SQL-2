@@ -20,7 +20,7 @@
 
 Ответ:
 
-`![task 2](./img/task-2.png)`
+![task 2](./img/task-2.png)
 
 
 ---
@@ -31,7 +31,7 @@
 
 Ответ
 
-`![task 3](./img/task-3.png)`
+![task 3](./img/task-3.png)
 
 ### Задание 4
 
@@ -39,4 +39,4 @@
 
 
 
-`![task-4](./img/task-4.png)`
+![task-4](./img/task-4.png)
